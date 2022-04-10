@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../LEADx.srcs/sources_1/new/AAd1.v" \
+"../../../../LEADx.srcs/sources_1/new/AAd2.v" \
+"../../../../LEADx.srcs/sources_1/new/Add.v" \
+"../../../../LEADx.srcs/sources_1/new/Addm.v" \
+"../../../../LEADx.srcs/sources_1/new/Leadx.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

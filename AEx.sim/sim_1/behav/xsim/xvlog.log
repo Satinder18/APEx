@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/AEx/AEx.srcs/sources_1/new/AAd1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AAd1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/AEx/AEx.srcs/sources_1/new/Add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Add
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/AEx/AEx.srcs/sources_1/new/Addm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addm
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/AEx/AEx.srcs/sources_1/new/AEx.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AEx
